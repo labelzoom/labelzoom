@@ -1,4 +1,5 @@
 ![LabelZoom Logo](LabelZoom_Logo_f_400px.png)
+
 # labelzoom
 LabelZoom is the world's premier barcode label conversion and design platform. For more information about our various products and services, please visit [labelzoom.net](https://www.labelzoom.net).
 
@@ -13,7 +14,7 @@ The following diagram illustrates the dependencies of various LabelZoom reposito
   - 🌎[groovy-zpl-utils](https://github.com/labelzoom/groovy-zpl-utils)
   - 🌎[python-zpl-utils](https://github.com/labelzoom/python-zpl-utils)
 - LabelZoom API (data model, interfaces, & utilities)
-  - 🔒[labelzoom-api](https://github.com/labelzoom/labelzoom-api)
+  - 🌎[labelzoom-api](https://github.com/labelzoom/labelzoom-api)
 - I/O adapters (convert labels to and from other formats)
   - XML/JSON
     - 🔒[labelzoom-io-xml](https://github.com/labelzoom/labelzoom-io-xml)
