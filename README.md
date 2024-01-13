@@ -25,8 +25,8 @@ The following diagram illustrates the dependencies of various LabelZoom reposito
     - 🔒[labelzoom-io-zpl-out](https://github.com/labelzoom/labelzoom-io-zpl-out)
 - Products
   - LabelZoom website and web services
-    - 🔒[labelzoom-website-spring](https://bitbucket.org/labelzoom/labelzoom-website-spring/src/master/)
-    - 🔒[labelzoom-website-spring-private](https://bitbucket.org/labelzoom/labelzoom-website-spring-private)
+    - 🔒[labelzoom-website-spring](https://github.com/labelzoom/labelzoom-website-spring)
+    - 🔒[labelzoom-api-spring](https://github.com/labelzoom/labelzoom-api-spring)
     - 🔒[lz-web-app-ts](https://bitbucket.org/labelzoom/lz-web-app-ts)
   - Client applications
     - 🔒[labelzoom-studio](https://bitbucket.org/labelzoom/labelzoom-studio)
