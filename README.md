@@ -30,3 +30,6 @@ The following diagram illustrates the dependencies of various LabelZoom reposito
     - 🔒[lz-web-app-ts](https://bitbucket.org/labelzoom/lz-web-app-ts)
   - Client applications
     - 🔒[labelzoom-studio](https://bitbucket.org/labelzoom/labelzoom-studio)
+- Community/open-source libraries
+  - 🌎[labelzoom-moca-client-java](https://github.com/labelzoom/labelzoom-moca-client-java)
+  - 🌎[labelzoom-moca-client-dotnet](https://github.com/labelzoom/labelzoom-moca-client-dotnet)
